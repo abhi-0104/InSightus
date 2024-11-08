@@ -161,4 +161,4 @@ cython_debug/
 
 artifacts/*
 
-/src/InSightus/keys.env
+/src/InSightus/.env

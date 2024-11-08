@@ -18,4 +18,8 @@ streamlit
 
 groq
 
+gspread
+
+google-search-results
+
 -e .
